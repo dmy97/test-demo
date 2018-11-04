@@ -1,0 +1,48 @@
+@media only screen and (min-width: 100px) and (max-width: 1000px){
+	.background img{
+		display: none;
+	}
+	.banner_age{
+		width: 100%
+		margin-left:0;
+		position: absolute;
+		bottom: 30px;
+		left:0;
+	}
+	.banner_age ul{
+		width: 212px;
+	}
+	.banner_age_zhong{
+		margin: 0;
+	}
+	nav ul{
+		width: 100%;
+	}
+	nav ul li{
+		display: none;
+	}
+	.works_inner{
+		width: 100%;
+	}
+	.works_inner img{
+		clear: both;
+		margin-top: 30px;
+		margin-left: 130px;
+	}
+	.abstract_back_img1{
+		display: none;
+	}
+	.abstract_back_img2{
+		display: none;
+	}
+	.abstract_main{
+		clear: both;
+		margin-top: 0;
+		/*margin:50%;*/
+		margin-left: 250px;
+	}
+	.abstract_back{
+		background: url(img/person/4.png);
+		background-size:180%;
+	}
+}
